@@ -1,0 +1,114 @@
+.outer-box{
+    
+}
+.inner-box{
+display: flex;
+width: 1240px;
+margin: auto;
+}
+.inline{
+    display:inline-flex;
+    word-spacing:50px;
+}
+.snap{
+    display: inline;
+    font-size: 60px;
+     
+}
+.features{
+    display: inline;
+    
+    display: inline;
+    font-size: 14px;
+    padding-left: 20px;
+    color: hsl(0, 0%, 41%);
+    border-color: white;
+}
+.company{
+    display: inline;
+    padding-left: 20px;
+    font-size: 14px;
+    color: hsl(0, 0%, 41%);
+}
+.careers{
+    display: inline;
+    padding-left: 20px;
+    font-size: 14px;
+    color: hsl(0, 0%, 41%);
+}
+.about{
+    
+    display: inline;
+    padding-left: 20px;
+    font-size: 14px;
+    color: hsl(0, 0%, 41%);
+    color: hsl(0, 0%, 41%);
+}
+
+.login{
+    
+    display: inline;
+    padding-left: 20px;
+    font-size: 14px;
+    float: right;
+    color: hsl(0, 0%, 41%);
+    padding-right: 20px;
+}
+.register{
+    
+    display: inline;
+    padding-left: 0px;
+    font-size: 14px;
+    border: 2px solid ;
+    border-color: hsl(0, 0%, 41%);
+    border-radius: 6px;
+    float: right;
+    justify-content: center;
+    color: hsl(0, 0%, 41%);
+    text-align: center;
+    padding:5px;
+    margin: 0px;
+    width:60px;
+    height: 20px;
+    
+}
+nav{
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    font-family: 'Epilogue', sans-serif;
+    text-align:left;
+}
+.right-box{
+    flex: 1;
+    padding-right: 40px;
+}
+.left-box{
+    flex: 1;
+    padding-top:130px;
+    padding-left: 70px;
+    
+}
+img{
+    width: 100%;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height:45px;
+    border-radius: 7px;
+    padding:;
+
+}
+p{
+    color: hsl(0, 0%, 41%);
+    font-size: 18px;
+    padding-bottom: 25px;
+}
+h1{
+ text-align: left;
+    font-size: 80px;
+}
